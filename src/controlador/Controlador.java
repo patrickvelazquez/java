@@ -20,6 +20,7 @@ public class Controlador implements ActionListener{
     
     private Fecha modeloFecha;
     private dlgFecha vistaFecha;
+    private int a;
     
 
     public Controlador (Fecha modeloFecha, dlgFecha vistaFecha){
